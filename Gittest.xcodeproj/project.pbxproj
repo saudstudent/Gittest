@@ -14,6 +14,7 @@
 		E2095494219A121400D1B864 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2095492219A121400D1B864 /* LaunchScreen.storyboard */; };
 		E209549F219A121400D1B864 /* GittestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E209549E219A121400D1B864 /* GittestTests.swift */; };
 		E20954AA219A121400D1B864 /* GittestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20954A9219A121400D1B864 /* GittestUITests.swift */; };
+		E2F1E6F3219CB75B00D776D3 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F1E6F2219CB75B00D776D3 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E20954A5219A121400D1B864 /* GittestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GittestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E20954A9219A121400D1B864 /* GittestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GittestUITests.swift; sourceTree = "<group>"; };
 		E20954AB219A121400D1B864 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2F1E6F2219CB75B00D776D3 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				E2095489219A121300D1B864 /* AppDelegate.swift */,
 				E209548B219A121300D1B864 /* ViewController.swift */,
+				E2F1E6F2219CB75B00D776D3 /* MapForItinerary.swift */,
 				E209548D219A121300D1B864 /* Main.storyboard */,
 				E2095490219A121400D1B864 /* Assets.xcassets */,
 				E2095492219A121400D1B864 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				E209548C219A121300D1B864 /* ViewController.swift in Sources */,
 				E209548A219A121300D1B864 /* AppDelegate.swift in Sources */,
+				E2F1E6F3219CB75B00D776D3 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
